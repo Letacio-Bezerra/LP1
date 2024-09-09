@@ -1,1 +1,1 @@
-alert(Math.floor(Math.random() * 101))
+alert(Math.floor(Math.random() * 100)) + 1
